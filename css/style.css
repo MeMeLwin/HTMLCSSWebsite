@@ -32,6 +32,11 @@ body{
   color: White;
   font-family: monospace;
 }
+
+#welcome_message a:hover{
+  color: darkorange;
+}
+
 #message{
   position: absolute;
   color: White;
