@@ -27,6 +27,11 @@ body{
   margin-left: 5px;
 }
 
+#welcome_message a{
+  text-decoration: none;
+  color: White;
+  font-family: monospace;
+}
 #message{
   position: absolute;
   color: White;
@@ -40,6 +45,7 @@ body{
 
 #btn{
   margin-top: 370px;
+  margin-left: 140px;
   font-family: monospace;
   text-align: center;
 
@@ -95,8 +101,8 @@ body{
 }
 
 #signiture{
-  margin-top: 135px;
-  margin-left:1230px;
+  margin-top: 180px;
+  margin-left: 1230px;
   font-family: monospace;
   color: White;
   font-size: 10px;
